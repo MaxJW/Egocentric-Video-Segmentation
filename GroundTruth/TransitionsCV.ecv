@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CV_RESOURCE AUTHOR="" DATE="2020-03-28T13:04:49+00:00" VERSION="0.2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONTROLLED_VOCABULARY CV_ID="Transitions">
+        <DESCRIPTION LANG_REF="und"/>
+        <CV_ENTRY_ML CVE_ID="cveid_f6b20d03-65c3-40a5-a7bf-0faa7b6e0fd4">
+            <CVE_VALUE DESCRIPTION="Moving from one Visit to another" LANG_REF="und">Transition</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_d5ec9bd3-7fe0-48fe-9ccf-e927d9853929">
+            <CVE_VALUE DESCRIPTION="A single area visited by the user" LANG_REF="und">Visit</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</CV_RESOURCE>

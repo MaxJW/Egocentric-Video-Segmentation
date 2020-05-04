@@ -1,0 +1,1 @@
+python .\analysis.py "..\OpticalFlow\opticalflow_result_video1.csv" "..\GroundTruth\video1_MAN.eaf" "..\OpticalFlow\opticalflow_result.csv" "video_Annotated.eaf"
