@@ -16,9 +16,9 @@ python of.py "./Video/Path/Here.mp4"
 Which will then output a file called ```opticalflow_results.csv``` to be used in the Classifier script.
 
 ## Screenshots
-![Screenshot of OpticalFlow run from PowerShell (on a 40 minute video)](./ReadMe_Assets/OpticalFlow_CMD_Screenshot.png?raw=true "Screenshot of OpticalFlow run from PowerShell (on a 40 minute video)")
+![Screenshot of OpticalFlow run from PowerShell (on a 40 minute video)](./README_Assets/OpticalFlow_CMD_Screenshot.png?raw=true "Screenshot of OpticalFlow run from PowerShell (on a 40 minute video)")
 Note: Time stated above is for a 40 minute video, your time may vary depending on computer specifications!
-![Screenshot of OpticalFlow window](./ReadMe_Assets/OpticalFlow_Screenshot.png?raw=true "Screenshot of OpticalFlow window")
+![Screenshot of OpticalFlow window](./README_Assets/OpticalFlow_Screenshot.png?raw=true "Screenshot of OpticalFlow window")
 
 
 # Classifier
@@ -37,7 +37,7 @@ Where:
 **Note: Please ensure you have the ```template.eaf``` file downloaded and in the same directory when running the script!**
 
 ## Screenshots
-![Screenshot of Analysis run from PowerShell](./ReadMe_Assets/Analysis_Screenshot.png?raw=true "Screenshot of OpticalFlow run from PowerShell")
+![Screenshot of Analysis run from PowerShell](./README_Assets/Analysis_Screenshot.png?raw=true "Screenshot of OpticalFlow run from PowerShell")
 
 # Using the Data
 Once both of these scripts have run successfully, you will be left with a file ```YourNameHere.eaf```. Open this with the program [ELAN](https://archive.mpi.nl/tla/elan) to view the completed annotated video. You will need to link the location of the video within the application in order to view it correctly.
@@ -49,4 +49,4 @@ To do this:
 * Press **Add** and select your video file
 * **Apply** then **Close**
 
-![Screenshot of ELAN Window](./ReadMe_Assets/ELAN_Screenshot.png?raw=true "ELAN Window Screenshot")
+![Screenshot of ELAN Window](./README_Assets/ELAN_Screenshot.png?raw=true "ELAN Window Screenshot")
