@@ -1,5 +1,5 @@
 # Egocentric Video Segmentation
-Final Year Honours Project - Software used to segment a first-person video into Transitions and Visits
+My (Max Wilson) Final Year Honours Project - Software used to segment a first-person video into Transitions and Visits
 
 # Requirements
 * Install [Python 3.8.2](https://www.python.org/downloads/release/python-382/)
