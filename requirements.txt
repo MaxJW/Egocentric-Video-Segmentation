@@ -5,5 +5,5 @@ opencv_contrib_python == 4.2.0.32
 
 # Analysis Requirements
 matplotlib == 3.2.1
-numpy == 1.18.2
+numpy == 1.22.0
 scikit_learn == 0.22.2.post1
